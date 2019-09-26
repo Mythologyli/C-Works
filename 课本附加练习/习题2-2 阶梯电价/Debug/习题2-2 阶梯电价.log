@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题2-2 阶梯电价\main.c(21,29): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题2-2 阶梯电价\main.c(25,61): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+  习题2-2 阶梯电价.vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题2-2 阶梯电价\Debug\习题2-2 阶梯电价.exe
