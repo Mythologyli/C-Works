@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "习题2-4 求交错序列前N项和", "习题2-4 求交错序列前N项和.vcxproj", "{A5BDC06A-F903-47E5-895C-D4796FBD2B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Debug|x64.ActiveCfg = Debug|x64
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Debug|x64.Build.0 = Debug|x64
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Debug|x86.Build.0 = Debug|Win32
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Release|x64.ActiveCfg = Release|x64
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Release|x64.Build.0 = Release|x64
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Release|x86.ActiveCfg = Release|Win32
+		{A5BDC06A-F903-47E5-895C-D4796FBD2B70}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F1CBD5-3B70-4239-87BF-F4D08E98A37B}
+	EndGlobalSection
+EndGlobal
