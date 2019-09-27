@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题2-5 求平方根序列前N项和\main.c(16,18): error C2065:  “num”: 未声明的标识符
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题2-5 求平方根序列前N项和\main.c(16,9): warning C4477:  “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
