@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-4 分段计算居民水费[2]\main.c(11,20): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-4 分段计算居民水费[2]\main.c(13,21): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+  7-4 分段计算居民水费[2].vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-4 分段计算居民水费[2]\Debug\7-4 分段计算居民水费[2].exe
