@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-1 计算个人所得税\main.c(11,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-1 计算个人所得税\main.c(13,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-1 计算个人所得税\main.c(15,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-1 计算个人所得税\main.c(17,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-1 计算个人所得税\main.c(18,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  7-1 计算个人所得税.vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-1 计算个人所得税\Debug\7-1 计算个人所得税.exe
