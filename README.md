@@ -1,5 +1,6 @@
 # C-Works
 C program works in ZJU.
+All the problems can be found in PTA system (pintia.cn).
 
 # 声明
 因浙江大学PTA有查重系统，为证明本人和PTA系统上的自己是同一人，避免日后不必要的麻烦，特此立据：\
