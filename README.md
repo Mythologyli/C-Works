@@ -3,7 +3,7 @@ C program works in ZJU.
 All the problems can be found in PTA system (pintia.cn).
 
 # 声明
-因浙江大学PTA有查重系统，为证明本人和PTA系统上的自己是同一人，避免日后不必要的麻烦，特此立据：\
+因PTA有查重系统，为证明本人和PTA系统上的自己是同一人，避免日后不必要的麻烦，特此立据：\
 创建以本人中文姓名为内容的txt文档（编码为ANSI），其SHA1值为638B44794180A707A03A15856C3008B56BB8483E
 
 Because the PTA  has a check system, in order to prove that the certain student in PTA and me are the same person, and to avoid unnecessary troubles in the future, I think I need to give a proof here:\
