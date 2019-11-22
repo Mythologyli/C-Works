@@ -64,6 +64,12 @@ int main(void)
 
 		while (1)
 		{
+			if (left > right)
+			{
+				printf("Not Found");
+				break; //未找到时跳出
+			}
+
 			mid = (left + right) / 2;
 			printf("[%d,%d][%d]\n", left, right, mid);
 
@@ -76,12 +82,6 @@ int main(void)
 				right = mid - 1;
 			else if (x > num[mid])
 				left = mid + 1;
-			
-			if (left > right)
-			{
-				printf("Not Found");
-				break; //未找到时跳出
-			}
 		}
 	}
 
