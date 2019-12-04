@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-6 将字符串逆序输出\main.c(30,6): warning C4013: “gets”未定义；假设外部返回 int
+  7-6 将字符串逆序输出.vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-6 将字符串逆序输出\Debug\7-6 将字符串逆序输出.exe

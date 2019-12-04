@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-7 字符排队\main.c(32,6): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-7 字符排队\main.c(34,12): warning C4013: “strlen”未定义；假设外部返回 int
+  7-7 字符排队.vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课后练习\7-7 字符排队\Debug\7-7 字符排队.exe
