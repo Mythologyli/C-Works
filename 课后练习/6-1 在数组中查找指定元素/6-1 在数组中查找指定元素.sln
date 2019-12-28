@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6-1 在数组中查找指定元素", "6-1 在数组中查找指定元素.vcxproj", "{512BCD30-B6E1-4132-B9B2-876A0D0B3241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Debug|x64.ActiveCfg = Debug|x64
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Debug|x64.Build.0 = Debug|x64
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Debug|x86.ActiveCfg = Debug|Win32
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Debug|x86.Build.0 = Debug|Win32
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Release|x64.ActiveCfg = Release|x64
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Release|x64.Build.0 = Release|x64
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Release|x86.ActiveCfg = Release|Win32
+		{512BCD30-B6E1-4132-B9B2-876A0D0B3241}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80FA5D1F-A17E-4C3A-A1C3-2F860D67CA65}
+	EndGlobalSection
+EndGlobal
