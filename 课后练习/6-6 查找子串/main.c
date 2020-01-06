@@ -1,3 +1,5 @@
+//ReadString函数缺失，无法编译
+
 #define _CRT_SECURE_NO_WARNINGS
 /*防止使用scanf()等函数时报错*/
 
@@ -11,6 +13,8 @@ char *search( char *s, char *t );
 */
 
 #include <stdio.h>
+#include <string.h>
+#include <stdbool.h>
 #define MAXS 30
 
 char* search(char* s, char* t);
@@ -31,7 +35,36 @@ int main()
     return 0;
 }
 
+
 char* search(char* s, char* t)
 {
+    int s_len = strlen(s);
+    int t_len = strlen(t);
+    int i, j;
+    bool is_same = false;
+    
+    for (i = 0; i < s_len; i++)
+    {
+        if (s[i] == t[0])
+        {
+            for (j = 1; j < t_len; j++)
+            {
+                is_same = true;
+            
+                if ((i + j == s_len && j < t_len) || s[i + j] != t[j])
+                {
+                    is_same = false;
+                    break;
+                }
+            }
+        }
 
+        if (is_same == true)
+            break;
+    }
+
+    if (is_same == true)
+        return &s[i];
+    
+    return NULL;
 }

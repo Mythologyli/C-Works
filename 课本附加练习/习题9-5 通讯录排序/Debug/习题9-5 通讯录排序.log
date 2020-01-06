@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(66,27): warning C4047: “函数”:“char *”与“char (*)[11]”的间接级别不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(66,27): warning C4024: “change_str”: 形参和实参 1 的类型不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(66,46): warning C4047: “函数”:“char *”与“char (*)[11]”的间接级别不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(66,46): warning C4024: “change_str”: 形参和实参 2 的类型不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(67,31): warning C4047: “函数”:“char *”与“char (*)[9]”的间接级别不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(67,31): warning C4024: “change_str”: 形参和实参 1 的类型不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(67,54): warning C4047: “函数”:“char *”与“char (*)[9]”的间接级别不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(67,54): warning C4024: “change_str”: 形参和实参 2 的类型不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(68,28): warning C4047: “函数”:“char *”与“char (*)[18]”的间接级别不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(68,28): warning C4024: “change_str”: 形参和实参 1 的类型不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(68,48): warning C4047: “函数”:“char *”与“char (*)[18]”的间接级别不同
+C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\main.c(68,48): warning C4024: “change_str”: 形参和实参 2 的类型不同
+  习题9-5 通讯录排序.vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\C-Works\课本附加练习\习题9-5 通讯录排序\Debug\习题9-5 通讯录排序.exe
